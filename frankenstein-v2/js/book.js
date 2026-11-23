@@ -1,0 +1,43 @@
+window.AWWFY_BOOK = {
+  title: "Frankenstein",
+  author: "Mary Shelley",
+  year: 1818,
+  slug: "frankenstein",
+  showOriginal: true,
+  extraCredit: "",
+  artStyle: "Original children's book illustration in a warm storybook style with soft flat colours, clean shapes, warm light, friendly faces, and gentle expressions, keeping every scene calm and safe for children with no blood, no wounds, no alcohol, and no text, letters, or numbers anywhere in the picture.",
+  cover: {
+    image: "img/cover.webp",
+    alt: "A tall gentle figure in a dark grey cloak stands on pale blue Arctic ice looking toward a wooden sailing ship lit by a warm golden lantern."
+  },
+  chapters: [
+    { id: "01", title: "Letter 1: Starting North", ready: true },
+    { id: "02", title: "Letter 2: Waiting in Archangel", ready: true },
+    { id: "03", title: "Letter 3: Out on the Sea", ready: true },
+    { id: "04", title: "Letter 4: A Stranger Found", ready: true },
+    { id: "05", title: "Chapter 1: Victor's Family", ready: true },
+    { id: "06", title: "Chapter 2: Boyhood Curiosity", ready: true },
+    { id: "07", title: "Chapter 3: Leaving for College", ready: true },
+    { id: "08", title: "Chapter 4: A Secret Study", ready: true },
+    { id: "09", title: "Chapter 5: The Creature Wakes", ready: true },
+    { id: "10", title: "Chapter 6: News from Home", ready: true },
+    { id: "11", title: "Chapter 7: A Sad Return", ready: true },
+    { id: "12", title: "Chapter 8: An Unfair Trial", ready: true },
+    { id: "13", title: "Chapter 9: Grief in the Alps", ready: true },
+    { id: "14", title: "Chapter 10: Meeting on Ice", ready: true },
+    { id: "15", title: "Chapter 11: First Days Alone", ready: true },
+    { id: "16", title: "Chapter 12: Watching the Cottage", ready: true },
+    { id: "17", title: "Chapter 13: Learning to Speak", ready: true },
+    { id: "18", title: "Chapter 14: The Family's Past", ready: true },
+    { id: "19", title: "Chapter 15: Books and Rejection", ready: true },
+    { id: "20", title: "Chapter 16: Driven Away Again", ready: true },
+    { id: "21", title: "Chapter 17: A Difficult Promise", ready: true },
+    { id: "22", title: "Chapter 18: Travelling Northward", ready: true },
+    { id: "23", title: "Chapter 19: A Lonely Island", ready: true },
+    { id: "24", title: "Chapter 20: Breaking the Promise", ready: true },
+    { id: "25", title: "Chapter 21: Stormy Shores", ready: true },
+    { id: "26", title: "Chapter 22: Return to Geneva", ready: true },
+    { id: "27", title: "Chapter 23: A Dark Night", ready: true },
+    { id: "28", title: "Chapter 24: The Final Chase", ready: true }
+  ]
+};
