@@ -1,0 +1,2 @@
+window.AWWFY_ORIGINALS = window.AWWFY_ORIGINALS || {};
+window.AWWFY_ORIGINALS["01"] = { title: "Preface", text: "How these papers have been placed in sequence will be made manifest in the reading of them. All needless matters have been eliminated, so that the history almost at variance with the possibilities of later-day belief may stand forth as simple fact. There is throughout no statement of past things wherein memory may err, for all the records chosen are exactly contemporary, given from the standpoints and within range of knowledge of those who made them." };
