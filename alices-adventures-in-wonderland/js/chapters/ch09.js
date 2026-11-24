@@ -1,0 +1,26 @@
+window.AWWFY_CHAPTERS = window.AWWFY_CHAPTERS || {};
+window.AWWFY_CHAPTERS["09"] = {
+  "id": "09",
+  "title": "The Mock Turtle's Story",
+  "hook": "What could a turtle learn at school far beneath the sea?",
+  "image": "img/ch09.webp",
+  "alt": "Alice and the Duchess pause on a garden path as the Queen bars their way.",
+  "paragraphs": [
+    "The Duchess took Alice’s arm, delighted to see her. She seemed kinder than she had in the kitchen. Perhaps pepper made people cross and vinegar made them sour. If barley sugar made them sweet, why did people hand out so little of it?",
+    "The Duchess noticed Alice had gone quiet and looked for a lesson in that. “Perhaps there isn't one,” Alice said. The Duchess insisted there was always a [[moral|A lesson about how people should behave.]] if you knew where to look. Alice politely put up with the Duchess’s sharp chin on her shoulder.",
+    "Alice said the game was going better. The Duchess found a lesson in that too, though Alice suggested everyone was simply minding their own business. Then the Duchess wondered whether Alice's flamingo would let her put an arm around Alice. Alice suggested, quite [[cautiously|In a way that avoids taking unnecessary risks.]], that it might bite.",
+    "The Duchess declared that flamingos and mustard both bit, so they belonged together. “But mustard isn't a bird,” Alice pointed out. The Duchess agreed it might be dug out of a mine, then agreed just as readily when Alice said it was a plant. Her next lesson was so tangled that Alice asked to see it in writing.",
+    "The Duchess offered Alice all her advice as a present. Alice was glad people didn't give birthday presents like that, though she kept quiet. When Alice defended her right to think, the Duchess began another lesson. Then her voice stopped, and the arm linked through Alice's began to shake.",
+    "There stood the Queen with her arms folded and a [[scowl|An angry look made by drawing the eyebrows together.]] on her face. She told the Duchess to leave at once, and the Duchess went without a word. Back at the game, the players were resting in the shade. They hurried to their places when they saw the Queen and Alice.",
+    "The Queen quarrelled with player after player and told the soldiers to take them away. Every soldier who led someone off left an arch missing. Soon only Alice, the King and the Queen remained. The Queen was out of breath.",
+    "Suddenly the Queen asked if Alice had met the Mock Turtle. Alice hadn't even heard of one, so the Queen offered to take her to hear his story. As they walked away, the King [[pardoned|Officially excused people from a punishment.]] the players quietly. Alice was glad that the Queen's orders would come to nothing.",
+    "They came upon a Gryphon asleep in the sun, and the Queen woke it. She told it to take Alice the rest of the way, then went back to the game. The Gryphon rubbed its eyes and chuckled as soon as the Queen had gone. It told Alice there was no need to worry about those punishments.",
+    "Alice saw the Mock Turtle sitting alone on a little [[ledge|A narrow shelf that sticks out from rock or a wall.]] of bare rock. He sighed so deeply that she felt sorry for him, though the Gryphon said it was all in his head. The Gryphon asked him to tell Alice his story. The Mock Turtle told them both to sit quietly until he had finished.",
+    "Alice waited so long she wondered how he would ever finish if he never began. At last he said that he had once been a real Turtle. Then came another long silence, broken by his sobs. Alice nearly thanked him and got up, but she decided there must be more to come.",
+    "At last he said he had gone to school in the sea. Their master was a Turtle, though they called him Tortoise. When Alice asked why, the Mock Turtle answered at once, “Because he taught us.” That seemed to settle the matter for everyone except Alice.",
+    "Alice mentioned that she had gone to school too and had taken French and music. At his school, the Mock Turtle explained, those cost extra, and so did washing. Alice wondered why anyone living under the sea would need washing lessons. He had stuck with the [[regular|Usual or standard for a place or situation.]] lessons because he couldn't pay for the extras.",
+    "The Mock Turtle listed Reeling and Writhing first, followed by such kinds of Arithmetic as Ambition and Distraction. Alice asked about Uglification, and the Gryphon reminded her what it meant to beautify something. There were Mystery and Seaography too, and an eel had taught Drawling, Stretching and Fainting in Coils. The Gryphon remembered an old crab who taught Laughing and Grief.",
+    "Both creatures covered their faces, so Alice asked how long their lessons lasted. “Ten hours the first day,” said the Mock Turtle, “and nine the next.” The Gryphon said that was why they were lessons: they [[lessened|Became smaller in amount or length.]] every day.",
+    "Alice worked out that the eleventh day must have been a holiday. What could they possibly have done on the twelfth? Before the Mock Turtle could answer, the Gryphon told him it was time to talk about games. Now Alice wondered what kind of games they played at the bottom of the sea."
+  ]
+};
